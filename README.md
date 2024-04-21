@@ -21,8 +21,8 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 * [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 * [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-* [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 * [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+* [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 * [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 * [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 * [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -32,27 +32,27 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 * [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 * [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+* [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 * [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-* [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
 * [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 * [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-* [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
 * [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-* [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+* [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 * [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+* [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+* [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 * [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
-* [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 * [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-* [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+* [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 * [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+* [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 * [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 * [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-* [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 * [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-* [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+* [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 * [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 * [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 * [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -65,838 +65,849 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
-* [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 * [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 * [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+* [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+* [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 * [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+* [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 * [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 * [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
-* [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 * [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 * [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 * [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-* [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 * [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-* [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+* [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 * [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+* [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 * [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 * [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 * [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+* [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 * [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
-* [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-* [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 * [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-* [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+* [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 * [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+* [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
+* [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+* [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 * [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 * [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-* [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 * [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-* [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
+* [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 * [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 * [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 * [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+* [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 * [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
-* [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-* [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+* [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 * [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 * [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 * [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 * [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 * [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 * [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-* [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 * [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 * [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-* [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 * [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 * [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+* [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 * [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 * [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-* [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 * [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+* [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 * [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
-* [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 * [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+* [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 * [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-* [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-* [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-* [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
-* [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
-* [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-* [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-* [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 * [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-* [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
+* [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+* [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+* [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+* [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
+* [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+* [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
+* [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 * [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 * [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-* [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+* [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+* [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
 * [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
-* [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
-* [paritytech/polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
+* [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 * [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 * [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+* [paritytech/polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
+* [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 * [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+* [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 * [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+* [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 * [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 * [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
-* [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-* [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
-* [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
-* [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
-* [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-* [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 * [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-* [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
-* [iron/iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
-* [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
-* [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
-* [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
+* [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
+* [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 * [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
-* [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
-* [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
-* [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
-* [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-* [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
-* [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
-* [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
-* [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
-* [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
+* [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
+* [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Cloud-native SQL stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
+* [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
+* [iron/iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
+* [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
+* [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
 * [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+* [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
+* [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
+* [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
+* [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
+* [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
+* [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+* [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
+* [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+* [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+* [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
+* [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 * [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
-* [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 * [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+* [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 * [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 * [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
-* [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-* [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
-* [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 * [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+* [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 * [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
+* [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 * [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-* [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 * [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-* [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-* [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
+* [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 * [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+* [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 * [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
-* [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 * [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 * [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
+* [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
+* [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 * [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
 * [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 * [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
-* [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 * [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
-* [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+* [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
+* [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 * [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
-* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
-* [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+* [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 * [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+* [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 * [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 * [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 * [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
-* [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 * [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-* [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
-* [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
-* [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-* [PistonDevelopers/piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
-* [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-* [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
-* [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
-* [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
-* [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-* [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
+* [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 * [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
+* [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+* [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+* [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
+* [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
+* [PistonDevelopers/piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
+* [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
+* [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+* [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
+* [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 * [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
-* [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
-* [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 * [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
+* [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 * [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
-* [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
+* [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
+* [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 * [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
+* [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
+* [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 * [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 * [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
-* [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 * [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 * [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
-* [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 * [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
-* [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 * [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
-* [bytecodealliance/lucet](https://github.com/bytecodealliance/lucet) - Lucet, the Sandboxing WebAssembly Compiler.
-* [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
+* [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
+* [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 * [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
+* [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 * [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
+* [bytecodealliance/lucet](https://github.com/bytecodealliance/lucet) - Lucet, the Sandboxing WebAssembly Compiler.
 * [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
-* [chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
-* [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
-* [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 * [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
+* [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+* [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
+* [chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
+* [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 * [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+* [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.
 * [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for ZK Applications
 * [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
-* [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.
-* [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
-* [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
-* [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 * [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
-* [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
+* [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
+* [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 * [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
-* [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-* [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-* [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
-* [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
-* [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-* [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
+* [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
+* [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
 * [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 * [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
-* [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
+* [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
+* [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
+* [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
+* [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
+* [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 * [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
-* [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
+* [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 * [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+* [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
+* [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
+* [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 * [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 * [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
-* [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
-* [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
+* [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
+* [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 * [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
-* [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
+* [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C++ programmers
 * [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
-* [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
+* [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
+* [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 * [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 * [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
-* [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
-* [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
-* [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
-* [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
-* [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
-* [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
-* [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
-* [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
-* [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust.
+* [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 * [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
-* [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
+* [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
+* [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 * [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-* [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
+* [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
+* [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
+* [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
+* [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
+* [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+* [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust.
 * [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
-* [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 * [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
-* [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
+* [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 * [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
+* [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 * [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
-* [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -> Result<Response, Error>
-* [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-* [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 * [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
-* [async-graphql/async-graphql](https://github.com/async-graphql/async-graphql) - A GraphQL server library implemented in Rust
+* [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -> Result<Response, Error>
 * [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
-* [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
-* [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 * [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..
-* [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+* [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+* [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
+* [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
+* [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
+* [async-graphql/async-graphql](https://github.com/async-graphql/async-graphql) - A GraphQL server library implemented in Rust
+* [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
+* [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 * [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+* [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
+* [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
+* [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
+* [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 * [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 * [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
-* [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
-* [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
-* [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
-* [coral-xyz/anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
-* [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
-* [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 * [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
 * [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
-* [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
-* [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
-* [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-* [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-* [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
+* [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
 * [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
-* [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
+* [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
+* [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 * [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-* [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-* [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
-* [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
-* [google/tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
-* [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
-* [weld-project/weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications
-* [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
+* [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 * [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) -  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
-* [redox-os/tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
-* [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
-* [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
+* [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+* [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
+* [google/tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
+* [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
+* [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
+* [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
+* [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+* [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
+* [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
+* [weld-project/weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications
 * [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
-* [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
+* [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
+* [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
+* [redox-os/tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 * [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 * [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+* [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 * [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
-* [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
-* [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 * [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
+* [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 * [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
-* [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 * [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
+* [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
-* [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
 * [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 * [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
-* [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
+* [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
 * [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
+* [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
+* [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 * [nerdypepper/dijo](https://github.com/nerdypepper/dijo) - scriptable, curses-based, digital habit tracker
 * [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
-* [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
-* [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
-* [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
-* [sigp/lighthouse](https://github.com/sigp/lighthouse) - Ethereum consensus client in Rust
-* [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
+* [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 * [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
+* [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
+* [sigp/lighthouse](https://github.com/sigp/lighthouse) - Ethereum consensus client in Rust
 * [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 * [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
-* [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
-* [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
-* [tweedegolf/teach-rs](https://github.com/tweedegolf/teach-rs) - A modular, reusable university course for Rust
+* [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
+* [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 * [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
-* [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
+* [EvilGenius-dot/RustMinerSystem](https://github.com/EvilGenius-dot/RustMinerSystem) - 🔥minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy 矿池抽水 矿池代理 矿池中转 矿池抽水 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy
+* [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
+* [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
+* [tweedegolf/teach-rs](https://github.com/tweedegolf/teach-rs) - A modular, reusable university course for Rust
 * [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 * [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
-* [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
-* [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
-* [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
-* [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
-* [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
-* [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
-* [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
-* [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
-* [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
-* [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
-* [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
-* [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
-* [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
-* [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
+* [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
 * [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
+* [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
+* [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
+* [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
+* [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
+* [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
+* [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
+* [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
+* [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
+* [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
+* [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
+* [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
+* [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
 * [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
-* [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
-* [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
+* [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
+* [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 * [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
+* [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 * [Auburn/FastNoiseLite](https://github.com/Auburn/FastNoiseLite) - Fast Portable Noise Library - C# C++ C Java HLSL GLSL JavaScript Rust Go
+* [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
+* [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 * [imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs) - Rust bindings for Dear ImGui
 * [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
-* [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
-* [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
-* [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
-* [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
-* [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 * [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
+* [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
+* [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
+* [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 * [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 * [apache/incubator-horaedb](https://github.com/apache/incubator-horaedb) - HoraeDB is a high-performance, distributed, cloud native time-series database.
-* [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling CPU profiler for Ruby
-* [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
 * [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 * [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-* [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+* [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
+* [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling CPU profiler for Ruby
 * [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
-* [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
-* [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
 * [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
-* [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
-* [amethyst/specs](https://github.com/amethyst/specs) - Specs - Parallel ECS
-* [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
-* [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
-* [QMHTMY/RustBook](https://github.com/QMHTMY/RustBook) - A book about Rust Data Structures and Algorithms.
+* [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
 * [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
+* [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
+* [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 * [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
-* [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
-* [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
-* [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
-* [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 * [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
-* [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
-* [nebulet/nebulet](https://github.com/nebulet/nebulet) - A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
-* [EvilGenius-dot/RustMinerSystem](https://github.com/EvilGenius-dot/RustMinerSystem) - 🔥minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,矿池抽水,挖矿抽水,矿池中转,矿池加密
+* [amethyst/specs](https://github.com/amethyst/specs) - Specs - Parallel ECS
+* [QMHTMY/RustBook](https://github.com/QMHTMY/RustBook) - A book about Rust Data Structures and Algorithms.
+* [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
+* [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
+* [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
+* [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
+* [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 * [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
-* [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust.
-* [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
-* [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
-* [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
-* [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 * [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
-* [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
-* [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
+* [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
+* [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
+* [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+* [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
+* [nebulet/nebulet](https://github.com/nebulet/nebulet) - A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
+* [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+* [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust.
+* [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
+* [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 * [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
+* [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
+* [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
+* [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
+* [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 * [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
 * [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
-* [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
-* [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
-* [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
-* [nical/lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
-* [rajasekarv/vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
-* [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
-* [gotham-rs/gotham](https://github.com/gotham-rs/gotham) - A flexible web framework that promotes stability, safety, security and speed.
-* [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
-* [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️
-* [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
-* [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
-* [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
-* [mozilla/cbindgen](https://github.com/mozilla/cbindgen) - A project for generating C bindings from Rust code
-* [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
-* [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
+* [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 * [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences
-* [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
-* [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
-* [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-* [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
-* [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
-* [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
-* [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
-* [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
-* [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
+* [near/nearcore](https://github.com/near/nearcore) - Reference client for NEAR Protocol
+* [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
+* [nical/lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
+* [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
+* [rajasekarv/vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
+* [gotham-rs/gotham](https://github.com/gotham-rs/gotham) - A flexible web framework that promotes stability, safety, security and speed.
+* [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
+* [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
+* [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+* [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️
+* [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 * [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
+* [mozilla/cbindgen](https://github.com/mozilla/cbindgen) - A project for generating C bindings from Rust code
+* [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
+* [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+* [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
+* [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
+* [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
+* [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
+* [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 * [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+* [rbatis/rbatis](https://github.com/rbatis/rbatis) - Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL
+* [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+* [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 * [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
+* [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
+* [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
+* [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
+* [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 * [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust
+* [paradigmxyz/artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
+* [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
+* [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
 * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 * [gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions
-* [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 * [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
-* [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 * [redox-os/termion](https://github.com/redox-os/termion) - Mirror of https://gitlab.redox-os.org/redox-os/termion
-* [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
-* [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
-* [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
-* [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-* [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
-* [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
-* [paradigmxyz/artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
 * [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
-* [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
-* [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
+* [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+* [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
+* [google/autocxx](https://github.com/google/autocxx) - Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 * [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
+* [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+* [crev-dev/cargo-crev](https://github.com/crev-dev/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager.
+* [MaikKlein/unreal-rust](https://github.com/MaikKlein/unreal-rust) - Rust integration for Unreal Engine 5
+* [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
+* [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 * [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 * [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
-* [MaikKlein/unreal-rust](https://github.com/MaikKlein/unreal-rust) - Rust integration for Unreal Engine 5
-* [crev-dev/cargo-crev](https://github.com/crev-dev/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager.
 * [buckyos/CYFS](https://github.com/buckyos/CYFS) - CYFS is the next-generation technology to build real Web3 by upgrading the basic protocol of Web (TCP/IP+DNS+HTTP),is short for CYberFileSystem. https://www.cyfs.com/, cyfs://cyfs/index_en.html.
-* [tildeio/helix](https://github.com/tildeio/helix) - Native Ruby extensions without fear
-* [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
-* [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
-* [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
-* [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
-* [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
-* [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
-* [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
-* [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust
-* [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
-* [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
-* [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
-* [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
-* [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap'n Proto for Rust
-* [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
-* [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
-* [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-* [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
-* [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 * [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
+* [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
+* [tildeio/helix](https://github.com/tildeio/helix) - Native Ruby extensions without fear
+* [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
+* [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
+* [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
+* [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
+* [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
+* [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
+* [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust
+* [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap'n Proto for Rust
+* [stacks-network/sbtc](https://github.com/stacks-network/sbtc) - sBTC primitives, signer components, helper tools
+* [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
+* [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
+* [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
+* [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
+* [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 * [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 * [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
-* [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
+* [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
+* [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
 * [gabdube/native-windows-gui](https://github.com/gabdube/native-windows-gui) - A light windows GUI toolkit for rust
+* [jonhoo/left-right](https://github.com/jonhoo/left-right) - A lock-free, read-optimized, concurrency primitive.
 * [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
+* [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
+* [tokio-rs/loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust.
+* [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
+* [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
+* [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+* [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
+* [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
 * [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
 * [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
-* [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
-* [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
-* [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
-* [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
-* [tokio-rs/loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust.
-* [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
-* [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
-* [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
-* [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
-* [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) - Rust Programming Fundamentals - one course to rule them all, one course to find them...
-* [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
-* [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...
-* [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
-* [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython) - Rust <-> Python bindings
-* [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
-* [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
-* [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
-* [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
-* [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
-* [retep998/winapi-rs](https://github.com/retep998/winapi-rs) - Rust bindings to Windows API
-* [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
-* [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
-* [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python
-* [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
-* [stacks-network/sbtc](https://github.com/stacks-network/sbtc) - sBTC primitives, signer components, helper tools
-* [rust-lang/chalk](https://github.com/rust-lang/chalk) - An implementation and definition of the Rust trait system using a PROLOG-like logic solver
-* [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC written in Rust
-* [Mercateo/rust-for-node-developers](https://github.com/Mercateo/rust-for-node-developers) - An introduction to the Rust programming language for Node developers.
-* [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
-* [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
-* [rustcc/RustPrimer](https://github.com/rustcc/RustPrimer) - The Rust primer for beginners. We need native English speaker help us modify the translation.
-* [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4
-* [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
-* [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
-* [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
-* [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-* [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
-* [EmbarkStudios/texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - 🎨 Example-based texture synthesis written in Rust 🦀
-* [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
-* [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
-* [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
-* [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
-* [matklad/once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
 * [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
-* [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
+* [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
+* [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager
+* [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...
+* [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) - Rust Programming Fundamentals - one course to rule them all, one course to find them...
+* [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
+* [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
+* [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
+* [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
+* [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
+* [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
+* [delta-io/delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python
+* [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
+* [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
+* [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
+* [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython) - Rust <-> Python bindings
+* [retep998/winapi-rs](https://github.com/retep998/winapi-rs) - Rust bindings to Windows API
 * [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
+* [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
+* [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) - Rust bindings for OpenCV 3 & 4
+* [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
+* [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
+* [rust-lang/chalk](https://github.com/rust-lang/chalk) - An implementation and definition of the Rust trait system using a PROLOG-like logic solver
+* [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
+* [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
+* [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+* [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
+* [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC in Rust
+* [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
+* [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
+* [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+* [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
+* [rustcc/RustPrimer](https://github.com/rustcc/RustPrimer) - The Rust primer for beginners. We need native English speaker help us modify the translation.
+* [Mercateo/rust-for-node-developers](https://github.com/Mercateo/rust-for-node-developers) - An introduction to the Rust programming language for Node developers.
+* [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
+* [matklad/once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
+* [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
+* [EmbarkStudios/texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - 🎨 Example-based texture synthesis written in Rust 🦀
+* [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
+* [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 * [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 * [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
-* [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
-* [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
-* [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
-* [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust
 * [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
-* [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
 * [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
-* [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN
-* [gfx-rs/wgpu-rs](https://github.com/gfx-rs/wgpu-rs) - Rust bindings to wgpu native library
-* [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) - Rust是未来前端基础设施
-* [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation for Rust.
-* [MoonZoon/MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework
-* [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
-* [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
+* [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
 * [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
-* [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
-* [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
-* [ash-rs/ash](https://github.com/ash-rs/ash) - Vulkan bindings for Rust
+* [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
+* [rust-phf/rust-phf](https://github.com/rust-phf/rust-phf) - Compile time static maps for Rust
+* [MoonZoon/MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework
 * [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
-* [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
-* [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system written in Rust. It is built for high throughput log ingestion cases.
+* [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN
+* [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation for Rust.
+* [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
+* [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
+* [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system platform for modern, cloud native workloads
+* [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) - Rust是未来前端基础设施
+* [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
+* [ash-rs/ash](https://github.com/ash-rs/ash) - Vulkan bindings for Rust
+* [gfx-rs/wgpu-rs](https://github.com/gfx-rs/wgpu-rs) - Rust bindings to wgpu native library
+* [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
+* [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
+* [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
+* [rcore-os/zCore](https://github.com/rcore-os/zCore) - Zircon microkernel reimplemented in Rust.
+* [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
 * [RustCrypto/hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust
 * [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
-* [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
-* [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 * [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine
-* [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
-* [dimforge/nphysics](https://github.com/dimforge/nphysics) - 2 and 3-dimensional rigid body physics engine for Rust.
-* [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
-* [gchp/iota](https://github.com/gchp/iota) - A terminal-based text editor written in Rust
-* [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
-* [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
-* [RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner) - svgcleaner could help you to clean up your SVG files from the unnecessary data.
 * [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
-* [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
-* [rtic-rs/rtic](https://github.com/rtic-rs/rtic) - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
-* [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support.
-* [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
-* [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
-* [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
-* [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
-* [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
-* [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
-* [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
-* [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
-* [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust.
+* [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
+* [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+* [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
+* [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
+* [dimforge/nphysics](https://github.com/dimforge/nphysics) - 2 and 3-dimensional rigid body physics engine for Rust.
 * [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
-* [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
-* [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
-* [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop
-* [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
-* [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
-* [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
-* [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud
+* [rtic-rs/rtic](https://github.com/rtic-rs/rtic) - Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
+* [gchp/iota](https://github.com/gchp/iota) - A terminal-based text editor written in Rust
+* [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 * [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
-* [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - A distributed system for running WebSocket services at scale.
+* [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
+* [RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner) - svgcleaner could help you to clean up your SVG files from the unnecessary data.
+* [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
+* [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support.
+* [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
+* [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
+* [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
+* [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
+* [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust.
+* [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
+* [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
+* [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
 * [Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas) - High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.
-* [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
-* [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
+* [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - A distributed system for running WebSocket services at scale.
+* [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
+* [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb) - A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud
+* [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+* [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
+* [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
+* [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) - 🐇 Fuzzing Rust code with American Fuzzy Lop
+* [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
 * [iggy-rs/iggy](https://github.com/iggy-rs/iggy) - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
+* [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
+* [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
 * [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 * [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
-* [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
-* [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
-* [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 * [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
-* [zboxfs/zbox](https://github.com/zboxfs/zbox) - Zero-details, privacy-focused in-app file system.
-* [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
-* [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
-* [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
-* [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust
-* [slog-rs/slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust
-* [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
-* [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - An alternative implementation of Golang specs, written in Rust for embedding or wrapping.
 * [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
-* [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
-* [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
-* [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - 😱 Panic messages for humans.
-* [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
-* [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
+* [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
+* [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
+* [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 * [n0-computer/iroh](https://github.com/n0-computer/iroh) - Sync anywhere
-* [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
-* [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
-* [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
-* [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
-* [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
-* [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
-* [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
-* [mesalock-linux/mesalink](https://github.com/mesalock-linux/mesalink) - OpenSSL compatibility layer for the Rust SSL/TLS stack
-* [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
-* [gfx-rs/naga](https://github.com/gfx-rs/naga) - Universal shader translation in Rust
-* [nbp/holyjit](https://github.com/nbp/holyjit) - Generic purpose Just-In-time compiler for Rust.
 * [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-* [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
-* [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio) - This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
-* [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
-* [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
+* [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
+* [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
+* [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust
+* [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
+* [slog-rs/slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust
+* [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - Panic messages for humans.
+* [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
+* [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
+* [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
+* [zboxfs/zbox](https://github.com/zboxfs/zbox) - Zero-details, privacy-focused in-app file system.
+* [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
+* [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+* [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
+* [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
+* [oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript) - An alternative implementation of Golang specs, written in Rust for embedding or wrapping.
+* [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 * [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
+* [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
+* [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
+* [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
+* [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
+* [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
+* [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
 * [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
+* [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio) - This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
+* [mesalock-linux/mesalink](https://github.com/mesalock-linux/mesalink) - OpenSSL compatibility layer for the Rust SSL/TLS stack
+* [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
+* [gfx-rs/naga](https://github.com/gfx-rs/naga) - Universal shader translation in Rust
+* [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
+* [nbp/holyjit](https://github.com/nbp/holyjit) - Generic purpose Just-In-time compiler for Rust.
+* [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
+* [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
+* [harlanc/xiu](https://github.com/harlanc/xiu) -  A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
+* [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 * [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
 * [websockets-rs/rust-websocket](https://github.com/websockets-rs/rust-websocket) - A WebSocket (RFC6455) library written in Rust
-* [databricks/click](https://github.com/databricks/click) - The "Command Line Interactive Controller for Kubernetes"
-* [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
-* [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
-* [bodil/im-rs](https://github.com/bodil/im-rs) - Assorted immutable collection datatypes for Rust
-* [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
-* [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
-* [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
-* [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) - A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
-* [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
-* [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - The MQTT ecosystem in rust
-* [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
-* [housleyjk/ws-rs](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
-* [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
-* [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
-* [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
-* [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
-* [rust-lang-deprecated/failure](https://github.com/rust-lang-deprecated/failure) - Error management
-* [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
-* [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing
-* [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
-* [tensorbase/tensorbase](https://github.com/tensorbase/tensorbase) - TensorBase is a new big data warehousing with modern efforts.
-* [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
 * [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
-* [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
-* [iceiix/stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust
-* [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust
-* [Joystream/joystream](https://github.com/Joystream/joystream) - Joystream Monorepo
-* [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
-* [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data platform for building, deploying and maintaining data products.
+* [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) - A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
+* [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - The MQTT ecosystem in rust
+* [databricks/click](https://github.com/databricks/click) - The "Command Line Interactive Controller for Kubernetes"
+* [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
+* [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) - ModelFox makes it easy to train, deploy, and monitor machine learning models.
+* [bodil/im-rs](https://github.com/bodil/im-rs) - Assorted immutable collection datatypes for Rust
+* [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
+* [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 * [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let's write an OS which can run on RISC-V in Rust from scratch!
+* [housleyjk/ws-rs](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
+* [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
+* [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
+* [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
+* [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
+* [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
+* [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
+* [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
+* [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing
 * [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini) - A high-level API for programmatically interacting with web pages through WebDriver.
+* [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) - Cranelift based backend for rustc
+* [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
+* [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust
+* [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
+* [rust-lang-deprecated/failure](https://github.com/rust-lang-deprecated/failure) - Error management
+* [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
+* [tensorbase/tensorbase](https://github.com/tensorbase/tensorbase) - TensorBase is a new big data warehousing with modern efforts.
+* [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
+* [iceiix/stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust
+* [Joystream/joystream](https://github.com/Joystream/joystream) - Joystream Monorepo
 * [das-labor/panopticon](https://github.com/das-labor/panopticon) - A libre cross-platform disassembler.
 * [yingDev/Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
-* [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
+* [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
 * [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
-* [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
-* [harlanc/xiu](https://github.com/harlanc/xiu) -  A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
-* [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) - Cranelift based backend for rustc
+* [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
+* [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 * [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth
 * [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
-* [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
-* [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 * [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
-* [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust!
-* [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
-* [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project
-* [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
-* [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
-* [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
-* [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
-* [pintariching/rustle](https://github.com/pintariching/rustle) - Svelte compiler rewritten in Rust
-* [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
-* [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
-* [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 * [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
-* [rust-embedded/heapless](https://github.com/rust-embedded/heapless) - Heapless, `static` friendly data structures
-* [intermezzOS/kernel](https://github.com/intermezzOS/kernel) - A hobby operating system, in Rust
-* [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
-* [PumpkinDB/PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) - Immutable Ordered Key-Value Database Engine
-* [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
-* [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) - A (mostly) pure-Rust implementation of various cryptographic algorithms.
-* [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
-* [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) - git, implemented in rust, for fun and education :crab:
-* [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
-* [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
+* [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust!
 * [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
-* [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
+* [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project
+* [cloudflare/lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API
+* [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
+* [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 * [not-fl3/miniquad](https://github.com/not-fl3/miniquad) - Cross platform rendering in Rust
-* [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS
-* [EmbarkStudios/puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Friendly little instrumentation profiler for Rust 🦀
-* [asomers/mockall](https://github.com/asomers/mockall) - A powerful mock object library for Rust
-* [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
-* [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
-* [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
-* [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
-* [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
-* [mohanson/gameboy](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.
-* [fishinabarrel/linux-kernel-module-rust](https://github.com/fishinabarrel/linux-kernel-module-rust) - Framework for writing Linux kernel modules in safe Rust
-* [murarth/rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
-* [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
-* [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
-* [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
-* [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
-* [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
-* [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems
+* [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
+* [rust-embedded/heapless](https://github.com/rust-embedded/heapless) - Heapless, `static` friendly data structures
+* [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
+* [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) - The official MongoDB Rust Driver
 * [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
-* [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
-* [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
-* [occlum/occlum](https://github.com/occlum/occlum) - Occlum is a memory-safe, multi-process library OS for Intel SGX
-* [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
-* [sfackler/rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust
-* [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
-* [citahub/cita](https://github.com/citahub/cita) - A high performance blockchain kernel for enterprise users.
-* [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
-* [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
+* [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
+* [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
+* [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
+* [bluealloy/revm](https://github.com/bluealloy/revm) - Ethereum Virtual Machine written in rust that is fast and simple to use
+* [intermezzOS/kernel](https://github.com/intermezzOS/kernel) - A hobby operating system, in Rust
+* [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
+* [jaemk/cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization
+* [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
+* [pintariching/rustle](https://github.com/pintariching/rustle) - Svelte compiler rewritten in Rust
+* [PumpkinDB/PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) - Immutable Ordered Key-Value Database Engine
+* [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) - A (mostly) pure-Rust implementation of various cryptographic algorithms.
+* [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) - git, implemented in rust, for fun and education :crab:
+* [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
+* [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS
+* [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
+* [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
+* [asomers/mockall](https://github.com/asomers/mockall) - A powerful mock object library for Rust
+* [EmbarkStudios/puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Friendly little instrumentation profiler for Rust 🦀
+* [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
+* [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) - Platform that enables Windows driver development in Rust. Developed by Surface.
+* [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
+* [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 * [moka-rs/moka](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust
-* [geiger-rs/cargo-geiger](https://github.com/geiger-rs/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
-* [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
-* [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
+* [mohanson/gameboy](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.
+* [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 * [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
-* [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
+* [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
+* [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
+* [occlum/occlum](https://github.com/occlum/occlum) - Occlum is a memory-safe, multi-process library OS for Intel SGX
+* [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
+* [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+* [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems
+* [fishinabarrel/linux-kernel-module-rust](https://github.com/fishinabarrel/linux-kernel-module-rust) - Framework for writing Linux kernel modules in safe Rust
+* [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
+* [murarth/rusti](https://github.com/murarth/rusti) - REPL for the Rust programming language
+* [sfackler/rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust
 * [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for the Skia Graphics Library
-* [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra) - Rust Memory Safety & Undefined Behavior Detection
 * [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
-* [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
-* [hyperium/h2](https://github.com/hyperium/h2) - HTTP 2.0 client & server implementation for Rust.
+* [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
+* [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
+* [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
+* [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 * [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt) - Rust port of Yjs
-* [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust
+* [geiger-rs/cargo-geiger](https://github.com/geiger-rs/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
 * [Relm4/Relm4](https://github.com/Relm4/Relm4) -  Build truly native applications with ease!
-* [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
-* [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
+* [citahub/cita](https://github.com/citahub/cita) - A high performance blockchain kernel for enterprise users.
+* [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 * [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
-* [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-* [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software.
-* [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
-* [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
-* [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
-* [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine) - Machine Learning library for Rust
-* [kyclark/command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
-* [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
-* [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
-* [fitzgen/dodrio](https://github.com/fitzgen/dodrio) - A fast, bump-allocated virtual DOM library for Rust and WebAssembly.
-* [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - Solving i18n for client-side and resource-constrained environments.
+* [hyperium/h2](https://github.com/hyperium/h2) - HTTP 2.0 client & server implementation for Rust.
 * [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
-* [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust
-* [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
-* [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
-* [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
-* [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
-* [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
-* [zu1k/translator](https://github.com/zu1k/translator) - 简单、轻量、好用的划词翻译软件
+* [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
+* [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra) - Rust Memory Safety & Undefined Behavior Detection
+* [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
+* [elringus/sprite-dicing](https://github.com/elringus/sprite-dicing) - Cross-engine tool for lossless compression of sprites with identical areas
+* [kyclark/command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
+* [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust
 * [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
-* [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
-* [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
+* [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
+* [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+* [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
+* [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache Arrow Ballista Distributed Query Engine
+* [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software.
+* [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
+* [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
+* [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 * [rp-rs/rp-hal](https://github.com/rp-rs/rp-hal) - A Rust Embedded-HAL for the rp series microcontrollers
-* [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
+* [unicode-org/icu4x](https://github.com/unicode-org/icu4x) - Solving i18n for client-side and resource-constrained environments.
+* [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
+* [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
 * [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+* [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
+* [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust
+* [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
+* [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine) - Machine Learning library for Rust
+* [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
+* [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 * [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
 * [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
-* [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
-* [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust
-* [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
-* [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
-* [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars
-* [mmstick/parallel](https://github.com/mmstick/parallel) - This project now lives on in a rewrite at https://gitlab.redox-os.org/redox-os/parallel
-* [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
-* [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
+* [fitzgen/dodrio](https://github.com/fitzgen/dodrio) - A fast, bump-allocated virtual DOM library for Rust and WebAssembly.
+* [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
+* [zu1k/translator](https://github.com/zu1k/translator) - 简单、轻量、好用的划词翻译软件
+* [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
+* [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 * [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
-* [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
-* [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
-* [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
-* [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
-* [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
-* [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
-* [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
-* [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
-* [hyperledger/solang](https://github.com/hyperledger/solang) - Solidity Compiler for Solana and Polkadot
-* [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
-* [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码
-* [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
-* [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)
 * [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
-* [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
-* [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
-* [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
-* [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) - 我的极客时间 Rust 课程的代码仓库，随课程更新
-* [Rahix/avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers
-* [BurntSushi/walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
-* [rust-lang/rust-playground](https://github.com/rust-lang/rust-playground) - The Rust Playground
-* [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
-* [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks.
-* [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
-* [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
+* [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
+* [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust
+* [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
+* [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
+* [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
+* [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
+* [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+* [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
+* [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars
+* [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
+* [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
+* [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
 * [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
-* [apache/incubator-teaclave-sgx-sdk](https://github.com/apache/incubator-teaclave-sgx-sdk) - Apache Teaclave (incubating) SGX SDK helps developers to write Intel SGX applications in the Rust programming language, and also known as Rust SGX SDK.
-* [colin-kiegel/rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - derive builder implementation for rust structs
-* [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
+* [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
+* [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
+* [mmstick/parallel](https://github.com/mmstick/parallel) - This project now lives on in a rewrite at https://gitlab.redox-os.org/redox-os/parallel
+* [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
+* [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)
+* [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
+* [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) - 我的极客时间 Rust 课程的代码仓库，随课程更新
+* [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
+* [hyperledger/solang](https://github.com/hyperledger/solang) - Solidity Compiler for Solana and Polkadot
+* [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
+* [Rahix/avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers
+* [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码
 * [eyre-rs/eyre](https://github.com/eyre-rs/eyre) -  A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
-* [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
-* [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust) - Rust client for Apache Kafka
-* [ferrilab/bitvec](https://github.com/ferrilab/bitvec) - A crate for managing memory bit by bit
-* [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
-* [plietar/librespot](https://github.com/plietar/librespot) - Open Source Spotify client library
-* [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
-* [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
-* [holochain/holochain-rust](https://github.com/holochain/holochain-rust) - DEPRECATED. The Holochain framework implemented in rust with a redux style internal state-model.
-* [gnzlbg/cargo-asm](https://github.com/gnzlbg/cargo-asm) - cargo subcommand showing the assembly or llvm-ir generated for Rust code
-* [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
-* [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
-* [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
-* [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
+* [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
+* [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+* [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
+* [BurntSushi/walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
+* [andy-5/wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
+* [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
+* [rust-lang/rust-playground](https://github.com/rust-lang/rust-playground) - The Rust Playground
+* [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks.
+* [colin-kiegel/rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - derive builder implementation for rust structs
+* [cloudflare/foundations](https://github.com/cloudflare/foundations) - Cloudflare's Rust service foundations library.
 * [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) -  CLI and Rust libraries for low-level manipulation of WebAssembly modules
 * [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
+* [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
+* [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
+* [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
+* [apache/incubator-teaclave-sgx-sdk](https://github.com/apache/incubator-teaclave-sgx-sdk) - Apache Teaclave (incubating) SGX SDK helps developers to write Intel SGX applications in the Rust programming language, and also known as Rust SGX SDK.
+* [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
+* [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
+* [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust) - Rust client for Apache Kafka
+* [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
+* [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
+* [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
+* [ferrilab/bitvec](https://github.com/ferrilab/bitvec) - A crate for managing memory bit by bit
+* [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
+* [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, Yubikey, etc.
+* [plietar/librespot](https://github.com/plietar/librespot) - Open Source Spotify client library
 * [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
-* [oracle/railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime
+* [gnzlbg/cargo-asm](https://github.com/gnzlbg/cargo-asm) - cargo subcommand showing the assembly or llvm-ir generated for Rust code
+* [jauhien/iron-kaleidoscope](https://github.com/jauhien/iron-kaleidoscope) - LLVM tutorial in Rust language
+* [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
 * [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 * [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
-* [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
-* [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-* [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, Yubikey, etc.
 * [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
-* [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
+* [holochain/holochain-rust](https://github.com/holochain/holochain-rust) - DEPRECATED. The Holochain framework implemented in rust with a redux style internal state-model.
 * [nervosnetwork/ckb](https://github.com/nervosnetwork/ckb) - The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.
-* [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
-* [fruiframework/frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust
-* [bytewax/bytewax](https://github.com/bytewax/bytewax) - Python Stream Processing
-* [holochain/holochain](https://github.com/holochain/holochain) - The current, performant & industrial strength version of Holochain on Rust.
+* [oracle/railcar](https://github.com/oracle/railcar) - RailCar: Rust implementation of the Open Containers Initiative oci-runtime
+* [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 * [fusion-engineering/inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
-* [koute/cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web
-* [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
-* [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
-* [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics.
-* [jni-rs/jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the Java Native Interface — JNI
-* [hadronized/luminance-rs](https://github.com/hadronized/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework
-* [rust-ethereum/evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
-* [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
 * [scottlamb/moonfire-nvr](https://github.com/scottlamb/moonfire-nvr) - Moonfire NVR, a security camera network video recorder
+* [holochain/holochain](https://github.com/holochain/holochain) - The current, performant & industrial strength version of Holochain on Rust.
+* [jni-rs/jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the Java Native Interface — JNI
+* [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
+* [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
+* [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
+* [rustgd/cgmath](https://github.com/rustgd/cgmath) - A linear algebra and mathematics library for computer graphics.
+* [rust-ethereum/evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
+* [fruiframework/frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust
+* [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper.
+* [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
+* [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma ORM
+* [koute/cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web
 * [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
+* [golemparts/rppal](https://github.com/golemparts/rppal) - A Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
+* [hadronized/luminance-rs](https://github.com/hadronized/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework
 * [Andy-Python-Programmer/aero](https://github.com/Andy-Python-Programmer/aero) - Aero is a new modern, experimental, UNIX-like operating system following the monolithic kernel design. Supporting modern PC features such as long mode, 5-level paging, and SMP (multicore), to name a few.
 * [spearow/juice](https://github.com/spearow/juice) - The Hacker's Machine Learning Engine
-* [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma ORM
-* [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format
-* [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
 * [lightningdevkit/rust-lightning](https://github.com/lightningdevkit/rust-lightning) - A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!
-* [google/mundane](https://github.com/google/mundane) - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
-* [ziesha-network/bazuka](https://github.com/ziesha-network/bazuka) - Rust implementation of Ziesha protocol
-* [kivikakk/comrak](https://github.com/kivikakk/comrak) - [mirror] CommonMark + GFM compatible Markdown parser and renderer
-* [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
-* [golemparts/rppal](https://github.com/golemparts/rppal) - A Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
-* [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
+* [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
+* [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
+* [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format
 * [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) - MessagePack implementation for Rust / msgpack.org[Rust]
+* [google/mundane](https://github.com/google/mundane) - Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 * [tomaka/rouille](https://github.com/tomaka/rouille) - Web framework in Rust
-* [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
+* [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
 * [grovesNL/glow](https://github.com/grovesNL/glow) - GL on Whatever: a set of bindings to run GL anywhere and avoid target-specific code
-* [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
-* [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
-* [cloudflare/foundations](https://github.com/cloudflare/foundations) - Cloudflare's Rust service foundations library.
-* [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
+* [ziesha-network/bazuka](https://github.com/ziesha-network/bazuka) - Rust implementation of Ziesha protocol
+* [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
 * [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
+* [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
+* [joaoh82/rust_sqlite](https://github.com/joaoh82/rust_sqlite) - SQLRite - Simple embedded database modeled off SQLite in Rust
+* [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
+* [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
+* [hermit-os/kernel](https://github.com/hermit-os/kernel) - A Rust-based, lightweight unikernel.
+* [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
+* [marc2332/freya](https://github.com/marc2332/freya) - Native GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
+* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
+* [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
+* [bytewax/bytewax](https://github.com/bytewax/bytewax) - Python Stream Processing
+* [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 * [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 * [tcdi/plrust](https://github.com/tcdi/plrust) - A Rust procedural language handler for PostgreSQL
 * [void-rs/void](https://github.com/void-rs/void) - terminal-based personal organizer
 * [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
-* [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
 * [bodil/vgtk](https://github.com/bodil/vgtk) - A declarative desktop UI framework for Rust built on GTK and Gtk-rs
 * [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
 * [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
@@ -906,7 +917,6 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [RustAudio/vst-rs](https://github.com/RustAudio/vst-rs) - VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group.
 * [toml-rs/toml-rs](https://github.com/toml-rs/toml-rs) - A TOML encoding/decoding library for Rust
 * [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
-* [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
 * [zargony/fuse-rs](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE)
 * [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
 * [archseer/enigma](https://github.com/archseer/enigma) - An Erlang VM implementation in Rust
@@ -919,8 +929,6 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [rust-mobile/ndk](https://github.com/rust-mobile/ndk) -  Rust bindings to the Android NDK
 * [hackndev/zinc](https://github.com/hackndev/zinc) - The bare metal stack for rust
 * [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
-* [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper.
-* [hermit-os/kernel](https://github.com/hermit-os/kernel) - A Rust-based, lightweight unikernel.
 * [Jon-Becker/heimdall-rs](https://github.com/Jon-Becker/heimdall-rs) - Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts.
 * [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs) - A native implementation of ØMQ in Rust
 * [HerringtonDarkholme/vue-compiler](https://github.com/HerringtonDarkholme/vue-compiler) - Vue's template compiler reimplemented in Rust!
@@ -936,7 +944,6 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [orlp/slotmap](https://github.com/orlp/slotmap) - Slotmap data structure for Rust
 * [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson
 * [hypercube-lab/hypercube](https://github.com/hypercube-lab/hypercube) - HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰
-* [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
 * [dalek-cryptography/bulletproofs](https://github.com/dalek-cryptography/bulletproofs) -  A pure-Rust implementation of Bulletproofs using Ristretto.
 * [CeresDB/horaedb](https://github.com/CeresDB/horaedb) - HoraeDB is a high-performance, distributed, cloud native time-series database.
 * [sidkshatriya/rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
