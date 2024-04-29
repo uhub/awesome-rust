@@ -81,6 +81,7 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 * [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 * [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
+* [njord-rs/njord](https://github.com/njord-rs/njord) - A lightweight ORM library for Rust ⛵
 * [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 * [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 * [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
