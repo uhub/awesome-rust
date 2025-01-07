@@ -30,6 +30,7 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 * [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 * [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+* [bedrock-crustaceans/bedrock-rs](https://github.com/bedrock-crustaceans/bedrockrs) - Universal toolkit for Minecraft Bedrock Edition development in Rust. [![GitHub stars](https://img.shields.io/github/stars/bedrock-crustaceans/bedrockrs)](https://github.com/bedrock-crustaceans/bedrockrs) [![CI](https://github.com/bedrock-crustaceans/bedrockrs/actions/workflows/ci.yml/badge.svg)](https://github.com/bedrock-crustaceans/bedrockrs/actions/workflows/ci.yml)
 * [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 * [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 * [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
