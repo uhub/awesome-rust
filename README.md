@@ -1426,3 +1426,4 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - A pure-Rust implementation of group operations on Ristretto and Curve25519
 * [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
 * [withoutboats/fehler](https://github.com/withoutboats/fehler) - Rust doesn't have exceptions
+* [franzos/jota](https://github.com/franzos/jota) - A Monero-inspired desktop wallet for IOTA Rebased with CLI, REPL, and native GUI
