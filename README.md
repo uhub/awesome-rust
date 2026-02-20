@@ -1429,3 +1429,4 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [franzos/jota](https://github.com/franzos/jota) - A Monero-inspired desktop wallet for IOTA Rebased with CLI, REPL, and native GUI
 * [franzos/tku](https://github.com/franzos/tku) - A CLI tool that tracks token usage and costs across Claude Code, OpenAI Codex, and other AI coding assistants
 * [franzos/envstash](https://github.com/franzos/envstash) - Save, version, and manage .env files across git branches with diffing, encryption, and remote sharing
+* [franzos/litehtml-rs](https://github.com/franzos/litehtml-rs) - Rust bindings for litehtml, a lightweight HTML/CSS rendering engine for email and simple web content
