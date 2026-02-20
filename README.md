@@ -1427,3 +1427,4 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
 * [withoutboats/fehler](https://github.com/withoutboats/fehler) - Rust doesn't have exceptions
 * [franzos/jota](https://github.com/franzos/jota) - A Monero-inspired desktop wallet for IOTA Rebased with CLI, REPL, and native GUI
+* [franzos/tku](https://github.com/franzos/tku) - A CLI tool that tracks token usage and costs across Claude Code, OpenAI Codex, and other AI coding assistants
