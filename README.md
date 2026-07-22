@@ -1526,3 +1526,4 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - A pure-Rust implementation of group operations on Ristretto and Curve25519
 * [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
 * [withoutboats/fehler](https://github.com/withoutboats/fehler) - Rust doesn't have exceptions
+* [artob/edky](https://github.com/artob/edky) - A command-line utility to convert Ed25519 public keys between various encoding formats (Base58, Base64, IPFS, iroh, libp2p, OpenSSH, etc).
