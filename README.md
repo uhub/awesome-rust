@@ -39,6 +39,7 @@ A curated list of awesome Rust frameworks, libraries and software.
 * [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 * [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+* [daxo-developer/daxo_os](https://github.com/daxo-developer/daxo_os) - An independent x86_64 multitasking microkernel written in Rust, featuring 4-level paging memory isolation and async task executor.
 * [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 * [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
